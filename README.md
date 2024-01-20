@@ -16,7 +16,7 @@ This project implements a Dual-Axis Solar Tracking System using geographical dat
 - Servo motors (2) for dual-axis movement
 - uRTCLib-supported Real-Time Clock (RTC) module
 - Liquid Crystal Display (LCD)
-- Sensors for latitude and longitude (optional, depending on implementation)
+- Solar panel
 
 ## Software Requirements
 
